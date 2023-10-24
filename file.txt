@@ -1,2 +1,2 @@
 Init Main
-From branch1
+From branch1 - now from branch2
